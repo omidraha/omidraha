@@ -6,5 +6,4 @@ I'm Omid Raha ;)
 
 https://omidraha.com/
 
-<a href="https://github.com/omidraha"><img alt="omidraha" src="https://komarev.com/ghpvc/?username=omidraha"></a>
- 
+![](https://komarev.com/ghpvc/?usernameomidraha&label=&base=1000&style=flat-square&color=FFFFFF) 
